@@ -1,72 +1,140 @@
-# Hi, I'm Atharva 👋
+<!-- Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Atharva+Borade;Backend+Engineer+in+the+Making;Go+%7C+Distributed+Systems;Open+Source+Contributor" />
+</h1>
 
-I'm a software developer who enjoys working close to real systems — cloud-native infrastructure, backend services, and large codebases. I like digging into tricky bugs, understanding how systems behave under the hood, and improving reliability through thoughtful fixes.
-
----
-
-## 🧠 What I work on
-
-- **Distributed & Cloud-Native Systems**
-  - Controllers, webhooks, background workers
-  - Concurrency, race conditions, lifecycle edge cases
-
-- **Open Source Development**
-  - Reading and understanding large, unfamiliar codebases
-  - Writing well-scoped fixes with clear reasoning
-  - Collaborating through reviews and discussions
-
-- **Backend Engineering**
-  - API design and implementation
-  - Defensive programming and correctness-focused changes
-  - Performance and maintainability improvements
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharrva01&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 About Me
 
-**Languages**
-- Go
-- TypeScript / JavaScript
+<table align="center">
+<tr>
+<td width="50%">
 
-**Cloud & Infrastructure**
-- Kubernetes
-- Docker
-- Helm
+### 👨‍💻 Backend Engineer in the Making
 
-**Databases**
-- PostgreSQL
-- SQLite
+I'm passionate about building **reliable, scalable systems** that solve real problems. My focus is on backend development, distributed systems, and writing code that's both performant and maintainable.
 
-**Tools & Environment**
-- Git & GitHub
-- Linux / WSL
-- CI/CD workflows
+**Current Focus:**
+- 🔧 Building with **Go** and **TypeScript**
+- 🌐 Exploring **distributed systems** patterns
+- 🔄 Contributing to **open source** projects
+- 📚 Learning **controllers & reconcilers**
 
----
+</td>
+<td width="50%">
 
-## 🎯 Current Focus
+### 💡 What Drives Me
 
-- Deepening understanding of Kubernetes internals  
-- Building strong backend and systems fundamentals  
-- Improving code quality through real-world fixes  
-- Learning from reviews and production feedback  
+```go
+interests := []string{
+    "Concurrency patterns",
+    "System observability",
+    "Failure modes & recovery",
+    "Clean architectures",
+}
+```
 
----
+> **"Build systems that explain themselves when they fail."**
 
-## 🧩 How I approach engineering
+I believe in writing code that's:
+- ✅ **Readable** first, clever second
+- ✅ **Debuggable** in production
+- ✅ **Resilient** by design
 
-- Understand the problem before touching code  
-- Fix the root cause, not just the surface issue  
-- Keep changes minimal, readable, and review-friendly  
-- Respect existing patterns and constraints  
-
----
-
-## 🤝 Connect
-
-- GitHub: [@atharrva01](https://github.com/atharrva01)
-- Linkedin: https://www.linkedin.com/in/atharva-borade-800a5b31b/
+</td>
+</tr>
+</table>
 
 ---
 
-> Learning by building, breaking, and fixing things.
+## 🛠️ Tech I Actually Use
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,c" />
+</p>
+
+### ⚙️ Backend / Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,docker,linux" />
+</p>
+
+### 🌐 Frontend (when needed)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### 🧰 Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 What I Love Building
+
+- ✨ Things that run continuously
+- ✨ Things that react to state changes
+- ✨ Things that fail loudly instead of silently
+- 🔁 Event-driven systems
+- 🧠 Controller-style architectures
+- 📊 Debuggable backends
+- 🧪 Code that survives edge cases
+
+> **If it can't be reasoned about, it's not done.**
+
+---
+
+## 📈 GitHub in Motion
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atharrva01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=atharrva01&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharrva01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🧠 Open Source Philosophy
+
+- Read the code before reading the docs
+- Fix root causes, not symptoms
+- Prefer correctness over cleverness
+- Respect maintainers' time
+
+> **Open source taught me how production software really works.**
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/atharrva01">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/atharva-borade-800a5b31b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Always+learning.;Always+building.;Always+breaking+things+to+understand+them." />
+</p>
