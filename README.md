@@ -101,6 +101,17 @@ I believe in writing code that's:
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharrva01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+### 📊 Detailed GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharrva01&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atharrva01&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atharrva01&theme=tokyonight&utcOffset=5.5" />
+</p>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -122,13 +133,19 @@ I believe in writing code that's:
 
 ---
 
+<p align="center">
+  <i>Always looking for new projects to contribute to. If you're working on something interesting in Go, distributed systems, or cloud-native tech, let's connect!</i>
+</p>
+
+---
+
 ## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://github.com/atharrva01">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/atharva-borade-800a5b31b/">
+  <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
