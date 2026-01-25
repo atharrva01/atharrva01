@@ -90,17 +90,6 @@ I believe in writing code that's:
 
 ---
 
-## 📈 GitHub in Motion
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atharrva01&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=atharrva01&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharrva01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ### 📊 Detailed GitHub Stats
 
 <p align="center">
