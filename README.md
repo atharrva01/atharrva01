@@ -1,13 +1,41 @@
-<!-- Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Atharva+Borade;Backend+Engineer+in+the+Making;Go+%7C+Distributed+Systems;Open+Source+Contributor" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharrva01&label=Profile%20Views&color=blue&style=flat" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,7,11,15&height=100&section=header&text=ATHARVA%20BORADE&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<h3>🔧 Backend Engineer | 🌐 Distributed Systems | 💻 Go Enthusiast</h3>
+
+> *"Code that explains itself when it breaks"*
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/golang.png" width="30"/><br/>
+<sub><b>Go</b></sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="30"/><br/>
+<sub><b>Distributed Systems</b></sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/docker.png" width="30"/><br/>
+<sub><b>Containers</b></sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/console.png" width="30"/><br/>
+<sub><b>Backend</b></sub>
+</td>
+</tr>
+</table>
+
+**Currently:** Building reliable systems & contributing to open source
+
+[![LinkedIn](https://img.shields.io/badge/-atharva--borade-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharva-borade-800a5b31b/)
+[![GitHub](https://img.shields.io/badge/-atharrva01-161B22?style=flat&logo=github)](https://github.com/atharrva01)
+![Visitors](https://komarev.com/ghpvc/?username=atharrva01&color=f97316&style=flat)
 
 ---
+
+</div>
 
 ## 🧩 About Me
 
