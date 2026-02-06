@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,7,11,15&height=100&section=header&text=ATHARVA%20BORADE&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
